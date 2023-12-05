@@ -4,8 +4,10 @@ If you want to see your scala documentation without having to go through the pai
 
 **How to run:**
 
-First off generate the documentation for the project as you normally would with the command: scala-cli doc .
-CD into the new scala-doc
-From the folder, run the command. scala-cli run PATH/TO/scaladocPatch.scala
+-> First off generate the documentation for the project as you normally would with the command: scala-cli doc . 
 
-And voilá!
+-> CD into the new scala-doc
+
+-> From the folder, run the command. scala-cli run PATH/TO/scaladocPatch.scala
+
+Voilá, just like that the linking should now work!
