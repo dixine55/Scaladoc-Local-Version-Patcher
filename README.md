@@ -1,4 +1,4 @@
-# ScalaDoc-Local-Version-Patcher
+# Scaladoc-Local-Version-Patcher
 If you want to see your scala documentation without having to go through the pain of booting up an entire webserver, well you're in luck! This program will patch the links so you won't get those nasty CORS errors!
 
 
